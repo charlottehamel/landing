@@ -1,0 +1,104 @@
+body
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  margin: 0px;
+  background-color: rgb(230,230,230);
+  color: rgb(30, 30, 30);
+}
+
+h1
+{
+  color: red;
+  letter-spacing: 10px;
+}
+
+h2
+{
+  color: red;
+  
+}
+
+a
+{
+  text-decoration: none;
+  color: #1a49e4;
+}
+
+a:hover 
+{
+  color: red;
+}
+
+.jimmy-photo
+{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.bouton-blue
+{
+  background-color: #1a49e4;
+  color: white;
+  padding: 12px 16px;
+  border-radius:4px ;
+}
+
+.banner-section
+{
+  background-image: url(images/jimmy.jpg);
+  background-size: cover;
+  color:black;
+  text-align: center;
+  padding: 100px 0px;
+}
+
+.banner-section h1
+{
+  font-size: 40px;
+}
+
+.banner-section h3
+{
+  opacity: 0.7;
+  margin-bottom: 40px;
+}
+
+.cards-white
+{
+  background-color: white;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+  padding: 18px;
+  border-radius: 4px;
+  margin: 20px;
+  width: 200px;
+  text-align: center;
+}
+
+.footer
+{
+  background-color: #404042;
+  padding: 24px 0;
+  color: white;
+  text-align: center;
+}
+
+.cards-white
+{
+display: inline-block;
+margin: 60px;
+
+}
+
+.cards-containers
+{
+  text-align: center;
+ 
+}
+
+h2
+{
+
+  margin-left: 90px;
+}
